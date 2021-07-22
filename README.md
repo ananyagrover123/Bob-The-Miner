@@ -1,1 +1,1 @@
-# Bob-The-Miner
+# Bob-The-Worker
